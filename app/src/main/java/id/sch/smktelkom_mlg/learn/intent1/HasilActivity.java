@@ -7,7 +7,7 @@ import android.widget.TextView;
 
 import java.util.Calendar;
 
-public class HasilAcivity extends AppCompatActivity {
+public class HasilActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
